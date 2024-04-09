@@ -2057,6 +2057,67 @@ details[open] .faq__summary:after {
     }
 
     .faq__detail {
-        padding: 5px 0 22px 0;
+        padding: 0px 0 24px 0;
+        margin: 18px 0;
+    }
+
+    .course-moreInfo-card-content {
+        padding: 4px 14px;
+    }
+
+    .course-moreInfo-card-btn a {
+        font-size: 18px;
+        height: 48px;
+    }
+
+    .course-moreInfo-card-price {
+        margin: 12px 0;
+    }
+
+    .course-moreInfo-card-price p {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+
+    .course-moreInfo-card-price span {
+        font-size: 14px;
+    }
+
+    /* Send Data */
+    .sendData-title {
+        font-size: 24px;
+    }
+
+    .sendData-text {
+        font-size: 16px;
+        margin: 8px 0;
+    }
+
+    .sendData-input input {
+        height: 50px;
+        border-radius: 6px;
+        padding-left: 8%;
+        width: 90%;
+        font-size: 14px;
+    }
+
+    .sendData-input-title {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+
+    .sendData-input {
+        margin: 12px 0;
+    }
+
+    .sendData-form form button {
+        border-radius: 6px;
+        height: 58px;
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    .sendData-form {
+        margin: 28px auto;
     }
 }
