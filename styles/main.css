@@ -2120,4 +2120,8 @@ details[open] .faq__summary:after {
     .sendData-form {
         margin: 28px auto;
     }
+
+    .faq__text {
+        margin: 40px 0 0 0;
+    }
 }
